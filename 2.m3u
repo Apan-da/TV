@@ -456,9 +456,9 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
-#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
-#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8?
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
 #http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
@@ -1131,9 +1131,9 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV17
 #https://stream1.freetv.fun/d8b7ff5633a3ddbce9eaa0ff2431fa601b88302391aa01a7e37fbd2d940a7079.m3u8
 #EXTINF:-1 tvg-id="CCTV奥林匹克" tvg-name="CCTV奥林匹克" group-title="央视",CCTV奥林匹克
-http://8.138.7.223/tv/cqyx2.php?id=cctv16HD
+#http://8.138.7.223/tv/cqyx2.php?id=cctv16HD
 #EXTINF:-1 tvg-id="CCTV奥运体育" tvg-name="CCTV奥运体育" group-title="央视",CCTV奥运体育
-http://8.138.7.223/tv/cqyx2.php?id=cctv5HD
+#http://8.138.7.223/tv/cqyx2.php?id=cctv5HD
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央视",CCTV第一剧场
 #http://42.48.17.204:808/hls/117/index.m3u8
 #EXTINF:-1 tvg-id="CCTV国防军事" tvg-name="CCTV国防军事" group-title="央视",CCTV国防军事
@@ -1142,8 +1142,8 @@ https://epg.pw/stream/ac14de0ee2633fbae592ba76f71688308fcc6cf04419ef6b7eefee4c8e
 #http://42.48.17.204:808/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="CCTV体育赛事" tvg-name="CCTV体育赛事" group-title="央视",CCTV体育赛事
 #http://8.138.7.223/tv/cqyx2.php?id=cctv5SportHD
-EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="央视",CCTV文化精品
-#http://42.48.17.204:808/hls/107/index.m3u8
+#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="央视",CCTV文化精品
+http://42.48.17.204:808/hls/107/index.m3u8
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="央视",CCTV央视台球
 #http://42.48.17.204:808/hls/108/index.m3u8
 #EXTINF:-1,安多卫视
