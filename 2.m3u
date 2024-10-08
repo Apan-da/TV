@@ -1143,7 +1143,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="CCTV体育赛事" tvg-name="CCTV体育赛事" group-title="央视",CCTV体育赛事
 #http://8.138.7.223/tv/cqyx2.php?id=cctv5SportHD
 #EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="央视",CCTV文化精品
-http://42.48.17.204:808/hls/107/index.m3u8
+#http://42.48.17.204:808/hls/107/index.m3u8
 #EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="央视",CCTV央视台球
 #http://42.48.17.204:808/hls/108/index.m3u8
 #EXTINF:-1,安多卫视
@@ -2309,7 +2309,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
 http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
-#http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
 http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
@@ -2687,11 +2687,11 @@ http://59.48.42.6:62204/lucheng.m3u8?zshanxd
 #EXTINF:-1,山西经济
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,山西社会与法治
-http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+#http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,山西文体
-http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,山西影视
-http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1,武乡新闻综合
 http://60.220.198.84:81/0.m3u8
 #EXTINF:-1,武乡新闻综合
@@ -2713,9 +2713,9 @@ http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 #EXTINF:-1,运城一套新闻综合频道
 http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
 #EXTINF:-1,长子综合
-http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 #EXTINF:-1,长子综合
-http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
+#http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
 #EXTINF:-1,CHC动作电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1,CHC动作电影
@@ -2761,11 +2761,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1,动漫秀场
 #https://stream1.freetv.fun/116b072fce86ad7fb72e6cb782fc5e85b72e4bae044922c23b702e6aa5a3adb8.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="动漫",哈哈炫动
-http://61.138.54.155:2233/hls/59/index.m3u8
+#http://61.138.54.155:2233/hls/59/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="动漫",哈哈炫动
-#http://117.161.12.124/live/program/live/hhxdhd/4000000/mnf.m3u8
+http://117.161.12.124/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1,河北少儿科教
-http://121.24.99.168:8090/hls/30/index.m3u8
+#http://121.24.99.168:8090/hls/30/index.m3u8
 #EXTINF:-1,黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1,黑莓动画
@@ -2779,9 +2779,9 @@ http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="动漫",金鹰卡通
 #http://111.61.236.247:9081/hls/66/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" group-title="动漫",卡酷动画
-http://121.24.99.168:8090/hls/83/index.m3u8
+#http://121.24.99.168:8090/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="动漫",优漫卡通
-http://8.138.7.223/tv/jstv.php?id=ymkt
+#http://8.138.7.223/tv/jstv.php?id=ymkt
 #EXTINF:-1,浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,浙江少儿
@@ -2793,7 +2793,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,TVBS欢乐
 http://37.27.111.214:8080/live/24/hls.m3u8
 #EXTINF:-1,澳门莲花
-http://php.jdshipin.com:8880/amlh.php
+#http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1,番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳",翡翠台
@@ -2813,9 +2813,9 @@ http://tianhewan.top/ZIPP.php?url=#http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" group-title="港澳",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="港澳",明珠台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" group-title="港澳",明珠台
-#https://pi.0472.org/tv/mzt.php?auth=2309081833
+https://pi.0472.org/tv/mzt.php?auth=2309081833
 #EXTINF:-1,香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1,香港佛陀
@@ -2830,19 +2830,19 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1,上虞文化影院
 #http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8zzhed
 #EXTINF:-1,上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 #EXTINF:-1,上虞新商都频道
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1,上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1,上虞新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1,东阳影视生活频道
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1,中国蓝新闻
-http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1,中国蓝新闻
-https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1,中国蓝新闻
 #https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
 #EXTINF:-1,之江纪录
@@ -2860,27 +2860,27 @@ http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 #EXTINF:-1,余杭综合频道
 http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 #EXTINF:-1,兰溪新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 #EXTINF:-1,兰溪新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:-1,嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1,嵊州新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1,平湖新闻综合
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1,平湖新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 #EXTINF:-1,平湖民生休闲
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1,平湖民生休闲频道
-http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1,庆元新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 #EXTINF:-1,庆元综合频道
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 #EXTINF:-1,开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1,开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 #EXTINF:-1,开化新闻综合频道
@@ -2946,67 +2946,67 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,绍兴公共频道
 #http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1,绍兴文化影视频道
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1,绍兴文化影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1,绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1,绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+#http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTINF:-1,绍兴电视台公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1,缙云新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1,缙云综合频道
-http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 #EXTINF:-1,苍南新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1,萧山新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1,萧山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 #EXTINF:-1,萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1,萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 #EXTINF:-1,衢江新闻综合
-http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 #EXTINF:-1,衢江新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1,诸暨新闻综合
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1,诸暨新闻综合
-http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1,象山新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 #EXTINF:-1,象山电视台新闻综合频道
-http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1,遂昌新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 #EXTINF:-1,遂昌综合频道
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 #EXTINF:-1,青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1,青田电视台
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 #EXTINF:-1,龙泉新闻综合
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+#http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 #EXTINF:-1,龙泉新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1,龙游新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1,龙游新闻综合频道
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 #EXTINF:-1,Trace_Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,超级体育
-http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
+#http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3
 #EXTINF:-1,超级体育
 #http://[2409:8087:1a01:df::4013]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,超级体育
 #http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,超级体育
 #http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
 #EXTINF:-1,超级体育
@@ -3024,7 +3024,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1,睛彩篮球
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1,精品体育
-#http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1,精品体育
 #http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1,精品体育
@@ -3032,15 +3032,15 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,精品体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 #EXTINF:-1,精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+#https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1,快乐垂钓
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育",魅力足球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+#http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育",魅力足球
 http://[2409:8087:5e08:24::5]:6610/000000001000/5000000011000031207/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=bestzb&Contentid=5000000011000031207&IAS#httpSessionId=OTT22052520240427084404007716
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育",魅力足球
-http://117.161.12.124/live/program/live/mlyyhd/4000000/mnf.m3u8
+#http://117.161.12.124/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" group-title="体育",魅力足球
 #http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1,咪咕运动
@@ -3050,11 +3050,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,五星体育
 #http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,五星体育
-http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,足球频道
 #http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1,足球频道
 #https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 #EXTINF:-1,足球频道
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
